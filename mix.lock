@@ -1,0 +1,9 @@
+%{"cowboy": {:hex, :cowboy, "1.0.2"},
+  "cowlib": {:hex, :cowlib, "1.0.1"},
+  "faker": {:git, "git://github.com/igas/faker.git", "05272477dc4392b71e35adeabf21929e720c359e", []},
+  "hackney": {:hex, :hackney, "1.3.0"},
+  "httpoison": {:hex, :httpoison, "0.7.1"},
+  "idna": {:hex, :idna, "1.0.2"},
+  "poison": {:hex, :poison, "1.4.0"},
+  "ranch": {:hex, :ranch, "1.1.0"},
+  "ssl_verify_hostname": {:hex, :ssl_verify_hostname, "1.0.5"}}
